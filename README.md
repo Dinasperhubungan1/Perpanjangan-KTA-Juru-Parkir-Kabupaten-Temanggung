@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <Perpanjangan KTA Juru Parkir
+    <title>Perpanjangan KTA Juru Parkir</title>
     <meta charset="UTF-8">
     <style>
-        { font-family: sans-serif; margin: 30px; background-color: #f4f4f4; }
-        { background: white; padding: 20px; border-radius: 8px; max-width: 600px; margin: auto; }
+        body { font-family: sans-serif; margin: 30px; background-color: #f4f4f4; }
+        .container { background: white; padding: 20px; border-radius: 8px; max-width: 600px; margin: auto; }
         h1 { color: #333; }
         a.button { display: inline-block; background: #007BFF; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; }
         a.button:hover { background: #0056b3; }
